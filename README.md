@@ -6,7 +6,7 @@ This repository contains the software and libraries you need to start creating w
 FUDGE is a lightweight open-source game engine and editor created for educating students in an academic environment in the field of design and development of games and highly interactive applications. It may also be used as a rapid prototyping tool to easly convey and evaluate ideas for applications and games and as a tool to create educational games.
 
 # Examples
-- See the [GameZone](http://games.dm.hs-furtwangen.de/GameZone/) for a selection of applications students have created. Filter for "FUDGE" in the technology-dropdown
+<!-- - See the [GameZone](http://games.dm.hs-furtwangen.de/GameZone/) for a selection of applications students have created. Filter for "FUDGE" in the technology-dropdown -->
 - Material of the [Prima-Lectures](https://github.com/JirkaDellOro/Prima#examples) (Prototyping Interactive Media-Applications and Games)
 - See [UfoUndLost](https://jirkadelloro.github.io/UfoundLost/UfoundLost.html), created at the GlobalGameJam 2021
 
